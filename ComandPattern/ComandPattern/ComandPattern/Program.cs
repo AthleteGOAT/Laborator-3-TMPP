@@ -1,14 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 
-// Command interface
 public interface ICommand
 {
     void Execute();
-    void Undo(); // optional
+    void Undo(); 
 }
 
-// Receiver
 public class FitnessTrainer
 {
     public void StartExercise(string exercise)
@@ -27,7 +25,6 @@ public class FitnessTrainer
     }
 }
 
-// Concrete Commands
 public class StartExerciseCommand : ICommand
 {
     private FitnessTrainer _trainer;
@@ -70,7 +67,6 @@ public class RestCommand : ICommand
     }
 }
 
-// Invoker
 public class WorkoutInvoker
 {
     private List<ICommand> _commandHistory = new List<ICommand>();
@@ -96,7 +92,7 @@ public class WorkoutInvoker
     }
 }
 
-// Client
+
 class Program
 {
     static void Main()
@@ -107,10 +103,10 @@ class Program
         ICommand pushups = new StartExerciseCommand(trainer, "Push-ups");
         ICommand rest = new RestCommand(trainer);
 
-        workout.ExecuteCommand(pushups); // Starting Push-ups...
-        workout.ExecuteCommand(rest);    // Taking a rest...
+        workout.ExecuteCommand(pushups); 
+        workout.ExecuteCommand(rest);    
 
-        workout.UndoLastCommand();       // Rest undone (back to workout)!
-        workout.UndoLastCommand();       // Stopping Push-ups.
+        workout.UndoLastCommand();       
+        workout.UndoLastCommand();       
     }
 }

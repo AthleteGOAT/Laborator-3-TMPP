@@ -1,0 +1,15 @@
+/Users/vadimgaicean/Desktop/lab3TMPP/StrategyPattern/StrategyPattern/StrategyPattern/bin/Debug/net9.0/StrategyPattern
+/Users/vadimgaicean/Desktop/lab3TMPP/StrategyPattern/StrategyPattern/StrategyPattern/bin/Debug/net9.0/StrategyPattern.deps.json
+/Users/vadimgaicean/Desktop/lab3TMPP/StrategyPattern/StrategyPattern/StrategyPattern/bin/Debug/net9.0/StrategyPattern.runtimeconfig.json
+/Users/vadimgaicean/Desktop/lab3TMPP/StrategyPattern/StrategyPattern/StrategyPattern/bin/Debug/net9.0/StrategyPattern.dll
+/Users/vadimgaicean/Desktop/lab3TMPP/StrategyPattern/StrategyPattern/StrategyPattern/bin/Debug/net9.0/StrategyPattern.pdb
+/Users/vadimgaicean/Desktop/lab3TMPP/StrategyPattern/StrategyPattern/StrategyPattern/obj/Debug/net9.0/StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadimgaicean/Desktop/lab3TMPP/StrategyPattern/StrategyPattern/StrategyPattern/obj/Debug/net9.0/StrategyPattern.AssemblyInfoInputs.cache
+/Users/vadimgaicean/Desktop/lab3TMPP/StrategyPattern/StrategyPattern/StrategyPattern/obj/Debug/net9.0/StrategyPattern.AssemblyInfo.cs
+/Users/vadimgaicean/Desktop/lab3TMPP/StrategyPattern/StrategyPattern/StrategyPattern/obj/Debug/net9.0/StrategyPattern.csproj.CoreCompileInputs.cache
+/Users/vadimgaicean/Desktop/lab3TMPP/StrategyPattern/StrategyPattern/StrategyPattern/obj/Debug/net9.0/StrategyPattern.sourcelink.json
+/Users/vadimgaicean/Desktop/lab3TMPP/StrategyPattern/StrategyPattern/StrategyPattern/obj/Debug/net9.0/StrategyPattern.dll
+/Users/vadimgaicean/Desktop/lab3TMPP/StrategyPattern/StrategyPattern/StrategyPattern/obj/Debug/net9.0/refint/StrategyPattern.dll
+/Users/vadimgaicean/Desktop/lab3TMPP/StrategyPattern/StrategyPattern/StrategyPattern/obj/Debug/net9.0/StrategyPattern.pdb
+/Users/vadimgaicean/Desktop/lab3TMPP/StrategyPattern/StrategyPattern/StrategyPattern/obj/Debug/net9.0/StrategyPattern.genruntimeconfig.cache
+/Users/vadimgaicean/Desktop/lab3TMPP/StrategyPattern/StrategyPattern/StrategyPattern/obj/Debug/net9.0/ref/StrategyPattern.dll
