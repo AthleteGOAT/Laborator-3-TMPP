@@ -1,0 +1,15 @@
+/Users/vadimgaicean/Desktop/lab3TMPP/VisitorPattern/VisitorPatter/VisitorPatter/bin/Debug/net9.0/VisitorPatter
+/Users/vadimgaicean/Desktop/lab3TMPP/VisitorPattern/VisitorPatter/VisitorPatter/bin/Debug/net9.0/VisitorPatter.deps.json
+/Users/vadimgaicean/Desktop/lab3TMPP/VisitorPattern/VisitorPatter/VisitorPatter/bin/Debug/net9.0/VisitorPatter.runtimeconfig.json
+/Users/vadimgaicean/Desktop/lab3TMPP/VisitorPattern/VisitorPatter/VisitorPatter/bin/Debug/net9.0/VisitorPatter.dll
+/Users/vadimgaicean/Desktop/lab3TMPP/VisitorPattern/VisitorPatter/VisitorPatter/bin/Debug/net9.0/VisitorPatter.pdb
+/Users/vadimgaicean/Desktop/lab3TMPP/VisitorPattern/VisitorPatter/VisitorPatter/obj/Debug/net9.0/VisitorPatter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadimgaicean/Desktop/lab3TMPP/VisitorPattern/VisitorPatter/VisitorPatter/obj/Debug/net9.0/VisitorPatter.AssemblyInfoInputs.cache
+/Users/vadimgaicean/Desktop/lab3TMPP/VisitorPattern/VisitorPatter/VisitorPatter/obj/Debug/net9.0/VisitorPatter.AssemblyInfo.cs
+/Users/vadimgaicean/Desktop/lab3TMPP/VisitorPattern/VisitorPatter/VisitorPatter/obj/Debug/net9.0/VisitorPatter.csproj.CoreCompileInputs.cache
+/Users/vadimgaicean/Desktop/lab3TMPP/VisitorPattern/VisitorPatter/VisitorPatter/obj/Debug/net9.0/VisitorPatter.sourcelink.json
+/Users/vadimgaicean/Desktop/lab3TMPP/VisitorPattern/VisitorPatter/VisitorPatter/obj/Debug/net9.0/VisitorPatter.dll
+/Users/vadimgaicean/Desktop/lab3TMPP/VisitorPattern/VisitorPatter/VisitorPatter/obj/Debug/net9.0/refint/VisitorPatter.dll
+/Users/vadimgaicean/Desktop/lab3TMPP/VisitorPattern/VisitorPatter/VisitorPatter/obj/Debug/net9.0/VisitorPatter.pdb
+/Users/vadimgaicean/Desktop/lab3TMPP/VisitorPattern/VisitorPatter/VisitorPatter/obj/Debug/net9.0/VisitorPatter.genruntimeconfig.cache
+/Users/vadimgaicean/Desktop/lab3TMPP/VisitorPattern/VisitorPatter/VisitorPatter/obj/Debug/net9.0/ref/VisitorPatter.dll

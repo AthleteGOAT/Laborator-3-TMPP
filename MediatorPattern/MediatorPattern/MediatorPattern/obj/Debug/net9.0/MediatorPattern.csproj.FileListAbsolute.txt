@@ -1,0 +1,15 @@
+/Users/vadimgaicean/Desktop/lab3TMPP/MediatorPattern/MediatorPattern/MediatorPattern/bin/Debug/net9.0/MediatorPattern
+/Users/vadimgaicean/Desktop/lab3TMPP/MediatorPattern/MediatorPattern/MediatorPattern/bin/Debug/net9.0/MediatorPattern.deps.json
+/Users/vadimgaicean/Desktop/lab3TMPP/MediatorPattern/MediatorPattern/MediatorPattern/bin/Debug/net9.0/MediatorPattern.runtimeconfig.json
+/Users/vadimgaicean/Desktop/lab3TMPP/MediatorPattern/MediatorPattern/MediatorPattern/bin/Debug/net9.0/MediatorPattern.dll
+/Users/vadimgaicean/Desktop/lab3TMPP/MediatorPattern/MediatorPattern/MediatorPattern/bin/Debug/net9.0/MediatorPattern.pdb
+/Users/vadimgaicean/Desktop/lab3TMPP/MediatorPattern/MediatorPattern/MediatorPattern/obj/Debug/net9.0/MediatorPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadimgaicean/Desktop/lab3TMPP/MediatorPattern/MediatorPattern/MediatorPattern/obj/Debug/net9.0/MediatorPattern.AssemblyInfoInputs.cache
+/Users/vadimgaicean/Desktop/lab3TMPP/MediatorPattern/MediatorPattern/MediatorPattern/obj/Debug/net9.0/MediatorPattern.AssemblyInfo.cs
+/Users/vadimgaicean/Desktop/lab3TMPP/MediatorPattern/MediatorPattern/MediatorPattern/obj/Debug/net9.0/MediatorPattern.csproj.CoreCompileInputs.cache
+/Users/vadimgaicean/Desktop/lab3TMPP/MediatorPattern/MediatorPattern/MediatorPattern/obj/Debug/net9.0/MediatorPattern.sourcelink.json
+/Users/vadimgaicean/Desktop/lab3TMPP/MediatorPattern/MediatorPattern/MediatorPattern/obj/Debug/net9.0/MediatorPattern.dll
+/Users/vadimgaicean/Desktop/lab3TMPP/MediatorPattern/MediatorPattern/MediatorPattern/obj/Debug/net9.0/refint/MediatorPattern.dll
+/Users/vadimgaicean/Desktop/lab3TMPP/MediatorPattern/MediatorPattern/MediatorPattern/obj/Debug/net9.0/MediatorPattern.pdb
+/Users/vadimgaicean/Desktop/lab3TMPP/MediatorPattern/MediatorPattern/MediatorPattern/obj/Debug/net9.0/MediatorPattern.genruntimeconfig.cache
+/Users/vadimgaicean/Desktop/lab3TMPP/MediatorPattern/MediatorPattern/MediatorPattern/obj/Debug/net9.0/ref/MediatorPattern.dll

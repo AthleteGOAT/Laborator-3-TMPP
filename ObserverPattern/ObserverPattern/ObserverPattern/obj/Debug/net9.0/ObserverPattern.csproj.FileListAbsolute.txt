@@ -1,0 +1,15 @@
+/Users/vadimgaicean/Desktop/lab3TMPP/ObserverPattern/ObserverPattern/ObserverPattern/bin/Debug/net9.0/ObserverPattern
+/Users/vadimgaicean/Desktop/lab3TMPP/ObserverPattern/ObserverPattern/ObserverPattern/bin/Debug/net9.0/ObserverPattern.deps.json
+/Users/vadimgaicean/Desktop/lab3TMPP/ObserverPattern/ObserverPattern/ObserverPattern/bin/Debug/net9.0/ObserverPattern.runtimeconfig.json
+/Users/vadimgaicean/Desktop/lab3TMPP/ObserverPattern/ObserverPattern/ObserverPattern/bin/Debug/net9.0/ObserverPattern.dll
+/Users/vadimgaicean/Desktop/lab3TMPP/ObserverPattern/ObserverPattern/ObserverPattern/bin/Debug/net9.0/ObserverPattern.pdb
+/Users/vadimgaicean/Desktop/lab3TMPP/ObserverPattern/ObserverPattern/ObserverPattern/obj/Debug/net9.0/ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadimgaicean/Desktop/lab3TMPP/ObserverPattern/ObserverPattern/ObserverPattern/obj/Debug/net9.0/ObserverPattern.AssemblyInfoInputs.cache
+/Users/vadimgaicean/Desktop/lab3TMPP/ObserverPattern/ObserverPattern/ObserverPattern/obj/Debug/net9.0/ObserverPattern.AssemblyInfo.cs
+/Users/vadimgaicean/Desktop/lab3TMPP/ObserverPattern/ObserverPattern/ObserverPattern/obj/Debug/net9.0/ObserverPattern.csproj.CoreCompileInputs.cache
+/Users/vadimgaicean/Desktop/lab3TMPP/ObserverPattern/ObserverPattern/ObserverPattern/obj/Debug/net9.0/ObserverPattern.sourcelink.json
+/Users/vadimgaicean/Desktop/lab3TMPP/ObserverPattern/ObserverPattern/ObserverPattern/obj/Debug/net9.0/ObserverPattern.dll
+/Users/vadimgaicean/Desktop/lab3TMPP/ObserverPattern/ObserverPattern/ObserverPattern/obj/Debug/net9.0/refint/ObserverPattern.dll
+/Users/vadimgaicean/Desktop/lab3TMPP/ObserverPattern/ObserverPattern/ObserverPattern/obj/Debug/net9.0/ObserverPattern.pdb
+/Users/vadimgaicean/Desktop/lab3TMPP/ObserverPattern/ObserverPattern/ObserverPattern/obj/Debug/net9.0/ObserverPattern.genruntimeconfig.cache
+/Users/vadimgaicean/Desktop/lab3TMPP/ObserverPattern/ObserverPattern/ObserverPattern/obj/Debug/net9.0/ref/ObserverPattern.dll
