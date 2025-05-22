@@ -1,0 +1,15 @@
+/Users/vadimgaicean/Desktop/lab3TMPP/ComandPattern/ComandPattern/ComandPattern/bin/Debug/net9.0/ComandPattern
+/Users/vadimgaicean/Desktop/lab3TMPP/ComandPattern/ComandPattern/ComandPattern/bin/Debug/net9.0/ComandPattern.deps.json
+/Users/vadimgaicean/Desktop/lab3TMPP/ComandPattern/ComandPattern/ComandPattern/bin/Debug/net9.0/ComandPattern.runtimeconfig.json
+/Users/vadimgaicean/Desktop/lab3TMPP/ComandPattern/ComandPattern/ComandPattern/bin/Debug/net9.0/ComandPattern.dll
+/Users/vadimgaicean/Desktop/lab3TMPP/ComandPattern/ComandPattern/ComandPattern/bin/Debug/net9.0/ComandPattern.pdb
+/Users/vadimgaicean/Desktop/lab3TMPP/ComandPattern/ComandPattern/ComandPattern/obj/Debug/net9.0/ComandPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadimgaicean/Desktop/lab3TMPP/ComandPattern/ComandPattern/ComandPattern/obj/Debug/net9.0/ComandPattern.AssemblyInfoInputs.cache
+/Users/vadimgaicean/Desktop/lab3TMPP/ComandPattern/ComandPattern/ComandPattern/obj/Debug/net9.0/ComandPattern.AssemblyInfo.cs
+/Users/vadimgaicean/Desktop/lab3TMPP/ComandPattern/ComandPattern/ComandPattern/obj/Debug/net9.0/ComandPattern.csproj.CoreCompileInputs.cache
+/Users/vadimgaicean/Desktop/lab3TMPP/ComandPattern/ComandPattern/ComandPattern/obj/Debug/net9.0/ComandPattern.sourcelink.json
+/Users/vadimgaicean/Desktop/lab3TMPP/ComandPattern/ComandPattern/ComandPattern/obj/Debug/net9.0/ComandPattern.dll
+/Users/vadimgaicean/Desktop/lab3TMPP/ComandPattern/ComandPattern/ComandPattern/obj/Debug/net9.0/refint/ComandPattern.dll
+/Users/vadimgaicean/Desktop/lab3TMPP/ComandPattern/ComandPattern/ComandPattern/obj/Debug/net9.0/ComandPattern.pdb
+/Users/vadimgaicean/Desktop/lab3TMPP/ComandPattern/ComandPattern/ComandPattern/obj/Debug/net9.0/ComandPattern.genruntimeconfig.cache
+/Users/vadimgaicean/Desktop/lab3TMPP/ComandPattern/ComandPattern/ComandPattern/obj/Debug/net9.0/ref/ComandPattern.dll
